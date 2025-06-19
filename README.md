@@ -1,6 +1,6 @@
 
 
-NS-3 5G Simulation Guide
+NS-3 5G Simulation Guide. By Kalid Muhumed & Ahmed Taher.
 
 System Requirements
 Ubuntu 22.04 (or WSL2 with Ubuntu) 8GB RAM minimum
